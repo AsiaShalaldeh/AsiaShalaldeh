@@ -18,21 +18,21 @@
   
 
 # Technologies 
-* Collaboration
-  1. Git
-  2. Github 
-* Front-End Development 
+* **Collaboration**
+1. Git
+2. Github 
+* **Front-End Development**
   1. HTML
   2. CSS
   3. JavaScript
   4. React
-* Back-End Development 
+* **Back-End Development** 
   1. .NET
   2. C#
   3. SQL & MS SQL Server
   4. Unit Testing
   5. RESTful API
-* Mobile Development
+* **Mobile Development**
   1. Flutter
   2. Dart
 
