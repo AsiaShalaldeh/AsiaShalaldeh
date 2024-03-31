@@ -21,6 +21,7 @@
 📫 You can see my social media accounts mentioned on the left.
   
 
+
 # 👩‍💻 Technologies 
 * ## Collaboration
 	<div>
