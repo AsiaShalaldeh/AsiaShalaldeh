@@ -6,7 +6,7 @@
                                                                                 code();
                                                                               } ```
 <!--
-**AsiaShalaldeh/AsiaShalaldeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AsiaShalaldeh/AsiaShalaldeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💁 About Asia
 
@@ -16,7 +16,6 @@
 - 👯 I’m looking to collaborate on back-end projects.
 - 📫 How to reach me: you can see my social media accounts mentioned on the left.
 - ⚡ Leave me alone, I'm coding.
--->
 
 # Technologies 
 
