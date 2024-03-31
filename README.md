@@ -11,9 +11,13 @@
 # 💁 About Asia
 
 - 🔭 I’m a big dreamer and self-learner back-end developer.
+  
 - 🌱 I’m currently learning advanced topics in programming like design patterns.
+  
 - 🙆‍♀️ I'm currently working on my graduation project (VR Anatomy Explorer).
+  
 - 👯 I’m looking to collaborate on back-end projects.
+  
 - 📫 You can see my social media accounts mentioned on the left.
   
 
