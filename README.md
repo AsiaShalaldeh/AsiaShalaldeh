@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-                                                                         while(alive) {
-                                                                            eat();
-                                                                            sleep();
-                                                                            code();
-                                                                          } 
+                                                       while(alive) {
+                                                          eat();
+                                                          sleep();
+                                                          code();
+                                                        } 
 <!--
 **AsiaShalaldeh/AsiaShalaldeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
